@@ -1,0 +1,5 @@
+import(nleqslv,nnet)
+
+importFrom("stats", "as.formula", "glm", "lm", "quantile")
+
+export(translate.logit)
